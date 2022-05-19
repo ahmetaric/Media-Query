@@ -1,2 +1,2 @@
 # Media-Query
-[click here!](https://ahmetaric.github.io/Paralax-Clarusway/)
+[click here!](https://ahmetaric.github.io/Media-Query/)
